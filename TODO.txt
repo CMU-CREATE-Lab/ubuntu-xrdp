@@ -1,0 +1,10 @@
+Phase 1
+
+
+
+Auto-start xrdb session on boot
+    Consider xrdb client on Xnull something or other
+Can we auto-resize?
+DONE Build rsargent/ubuntu-xrdb:20.04
+DONE Comment docker-compose
+DONE Add .secrets/users.list

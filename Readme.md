@@ -1,3 +1,14 @@
+## Modifications by @rsargent
+
+This is a fork of the excellent work by @danielguerra69.  I have made the following changes:
+- Do not default to account ubuntu/ubuntu if no users.list file is provided
+- Place your users.list in .secrets/users.list
+
+```bash
+docker build 
+
+
+
 ## Ubuntu 20.04/18.04/16.04  Multi User Remote Desktop Server
 
 Fully implemented Multi User xrdp
